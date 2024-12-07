@@ -1,0 +1,29 @@
+Backend - fastapi, graphql, aiohttp
+Frontend - React Native
+
+MOTTO
+this is all about HOW TO MAKE LESS API CALLS TO EXTERNAL and MAKING API CALLS FASTEST IN BACKEND
+
+1. read about fastapi by following the tutorial guide
+2. same for aiohttp library
+3. same for graphql
+4. same for react Native
+
+5. plan proper user authentication/authorization flow 
+
+6. which db is perfect to store all these, need to determine
+
+
+WHAT THE APP WILL DO
+
+1. fetch the best available trains on a date given boarding station, date, to station using https://www.railyatri.in/booking
+2. fetch 20 or variable number of quotes (given by user) from https://zenquotes.io/ for a day
+3. fetch 20 or var no of jokes from https://sv443.net/jokeapi/v2/
+4. fetch latest news from https://newsapi.org/docs/endpoints/sources
+
+4. add extension to enable sharing GIFs from https://developers.giphy.com/docs/api/endpoint/#search
+
+
+FAQ:
+Performance Advisor to analyze mongodb query Performance
+
